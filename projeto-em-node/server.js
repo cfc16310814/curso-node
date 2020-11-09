@@ -1,5 +1,5 @@
 const express = require("express"); /*para importar o express utilizando o "require" */
-const cors = require("cors")
+const cors = require("cors");
 const mongoose = require("mongoose"); /* para importar o mongoose utilizando o "require" */
 const requireDir = require("require-dir"); /*para importar o require-dir utilizando o require*/
  
