@@ -17,4 +17,4 @@ requireDir('./src/models');
 
 lista.use('/', require('./src/routes'));
 
-lista.listen(3001);
+lista.listen(3002);
